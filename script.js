@@ -6,7 +6,7 @@ function compute()
     var SI = p*r*i;
     const d = new Date();
     let year = d.getFullYear();
-    document.getElementById("result").innerHTML = p
+    document.getElementById("result").innerHTML = p;
     
 }
         
